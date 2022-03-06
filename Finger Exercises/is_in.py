@@ -25,4 +25,4 @@ def isIn(char, aStr):
         return isIn(char, aStr[midIndex + 1 :])
 
 
-print(isIn("p", "acddjlllpvwy"))
+isIn("p", "acddjlllpvwy")
